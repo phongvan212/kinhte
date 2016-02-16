@@ -1,0 +1,146 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: trungtamctxh\n"
+"POT-Creation-Date: 2016-01-29 10:00+0700\n"
+"PO-Revision-Date: 2016-01-27 16:25+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: 404.php\n"
+"X-Poedit-SearchPath-1: archive.php\n"
+"X-Poedit-SearchPath-2: content.php\n"
+"X-Poedit-SearchPath-3: content-none.php\n"
+"X-Poedit-SearchPath-4: footer.php\n"
+"X-Poedit-SearchPath-5: functions.php\n"
+"X-Poedit-SearchPath-6: search.php\n"
+"X-Poedit-SearchPath-7: header.php\n"
+
+#: 404.php:8
+msgid "<h1>404 Not found!</h1>"
+msgstr ""
+
+#: 404.php:9
+msgid ""
+"<h4>Sorry, but the page you requested cannot be found. Please try again.</h4>"
+msgstr ""
+
+#: content-none.php:2
+msgid ""
+"<div class=\"alert alert-danger\">There is no any post in this category.</"
+"div>"
+msgstr ""
+
+#: footer.php:6
+msgid "Address:"
+msgstr ""
+
+#: footer.php:6
+msgid ""
+"06 Tran Van On Street, Phu Hoa District, Thu Dau Mot City, Binh Duong "
+"Province"
+msgstr ""
+
+#: footer.php:7
+msgid "Phone:"
+msgstr ""
+
+#: footer.php:7
+msgid "(0650) 3.837.803"
+msgstr ""
+
+#: footer.php:24
+msgid "Search"
+msgstr ""
+
+#: functions.php:77
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:83
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:168 functions.php:293
+msgid "Previous page"
+msgstr ""
+
+#: functions.php:172 functions.php:292
+msgid "Next page"
+msgstr ""
+
+#: functions.php:209
+#, php-format
+msgid "<i>%1$s posted on %2$s - %3$s</i>"
+msgstr ""
+
+#: functions.php:221
+#, php-format
+msgid "<i class=\"chungaythang\">Published on: %1$s - %2$s</i>"
+msgstr ""
+
+#: functions.php:242
+#, php-format
+msgid "<h4 class=\"date-published\">Published on: %1$s</h4>"
+msgstr ""
+
+#: functions.php:268
+msgid "Read more"
+msgstr ""
+
+#: functions.php:290
+msgid "<p>Page:"
+msgstr ""
+
+#: functions.php:309
+#, php-format
+msgid "Tagged in %1$s"
+msgstr ""
+
+#: functions.php:374
+msgid "LASTEST NEWS"
+msgstr ""
+
+#: functions.php:389 functions.php:429
+#, php-format
+msgid "Published on: %1$s"
+msgstr ""
+
+#: functions.php:392
+#, php-format
+msgid "Views: %1$s"
+msgstr ""
+
+#: header.php:21
+msgid "http://ef.tdmu.edu.vn/en"
+msgstr ""
+
+#: header.php:21
+msgid "Home"
+msgstr ""
+
+#: header.php:22
+msgid "Economic Faculty - Thu Dau Mot University"
+msgstr ""
+
+#: search.php:17
+#, php-format
+msgid ""
+"<div class=\"alert alert-info\">Find <strong>%1$s</strong> result(s) for "
+"<strong>%2$s</strong>.</div>"
+msgstr ""
+
+#: search.php:23
+#, php-format
+msgid ""
+"<div class=\"alert alert-danger\">There is no result for <strong>%1$s</"
+"strong>.</div>"
+msgstr ""
